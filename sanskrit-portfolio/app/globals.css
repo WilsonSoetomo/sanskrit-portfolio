@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #F5E6C8; /* Light cream beige */
+  color: #4A3F35; /* Dark text color */
+  font-family: serif;
+  min-height: 100vh;
+}
